@@ -1,3 +1,28 @@
-# Auto detect text files and perform LF normalization
+-# Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+  <body>
+    <h1>When in doubt, call Batman</h1>
+    <p>In this sectionI will explain why it is a good idead to cal <b>Batman</b> <br /> in case of an emergency situation. If you do not cal Batman, <br /> he cannot save you from death.<p>
+
+    <h2>In this section I will say how you can contact <i>Batman</i>.</h2>
+    <p>To call <a href="https://www.thebatman.com" taget="_blank">Batman</a>, first you must understand E=MC<sup>2</sup> and how to apply <br /> CO<sub>2</sub> to a large canitser. This could cost you <del> $555.21 </del> $230.99</p>
+
+    <h2>How to <strong> Really Contact Batman </strong> </h2>
+    <p>The following list explains the step by step way to contact Batman:
+	<ol>
+		<li>Turn on the Bat Signal</li>
+			<ul>
+				<li>Found on the top of GCPD</li>
+		<li>Stand there till he shows up</li>
+		<li>Pray he is in a good mood</li>
+	</ol>
+	Other suggestions include:
+	<ul>
+		<li>Screaming for help</li>
+		<li>Wearing clown attire</li>
+    </ul>
+
+	</p>
+  </body>
 </html>
